@@ -1,0 +1,36 @@
+<RCC>
+  <qresource prefix="calendario">
+    <file>img/calendar-icon.png</file>
+  </qresource>
+  <qresource prefix="warning">
+    <file>img/warning.png</file>
+  </qresource>
+  <qresource prefix="comprimir">
+    <file>img/compress.png</file>
+  </qresource>
+  <qresource prefix="imprimir">
+    <file>img/imprimir.png</file>
+  </qresource>
+  <qresource prefix="salir">
+    <file>img/salirt.png</file>
+    <file>img/exit.png</file>
+  </qresource>
+  <qresource prefix="abrir">
+    <file>img/openFile.png</file>
+  </qresource>
+  <qresource prefix="biblioteca">
+    <file>img/biblioteca.png</file>
+  </qresource>
+  <qresource prefix="lupa">
+    <file>img/lupa.jpg</file>
+  </qresource>
+  <qresource prefix="actualizar">
+    <file>img/refresh.png</file>
+  </qresource>
+  <qresource prefix="libros">
+    <file>img/libros.png</file>
+  </qresource>
+  <qresource prefix="socios">
+    <file>img/socios.png</file>
+  </qresource>
+</RCC>
